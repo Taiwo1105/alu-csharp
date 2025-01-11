@@ -7,8 +7,11 @@ class Program
         double percent = 75.534;
         double currency = 98765.4321;
 
+        percent = Math.Round(percent, 2);
         Console.WriteLine($"Percent: {percent:F2}%");
+        
         Console.WriteLine($"Currency: {currency:C}");
     }
 }
+
 
