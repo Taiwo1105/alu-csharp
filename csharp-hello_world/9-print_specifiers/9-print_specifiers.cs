@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 class Program
 {
     static void Main(string[] args)
@@ -7,7 +8,7 @@ class Program
         double currency = 98765.4321;
         percent = Math.Round(percent, 2);
         Console.WriteLine($"Percent: {percent:F2}%");
-        Console.WriteLine($"Currency: {currency:C}");
+        CultureInfo culture = new CultureInfo("en-US");
+        Console.WriteLine($"Currency: {currency.ToString("C", culture)}");
     }
 }
-
