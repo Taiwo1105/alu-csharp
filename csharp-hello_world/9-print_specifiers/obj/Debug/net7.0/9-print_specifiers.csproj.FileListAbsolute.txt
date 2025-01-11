@@ -1,0 +1,4 @@
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.CoreCompileInputs.cache
