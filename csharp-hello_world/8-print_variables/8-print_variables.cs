@@ -10,5 +10,3 @@ class Program
         Console.WriteLine(str1 + " " + str2);   // Output: "972 Mission Street"
     }
 }
-
-
