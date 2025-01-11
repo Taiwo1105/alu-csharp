@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/refint/8-print_variables.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/ref/8-print_variables.dll
