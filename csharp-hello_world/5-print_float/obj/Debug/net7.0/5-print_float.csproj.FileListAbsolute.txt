@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/net7.0/5-print_float.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/refint/5-print_float.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/5-print_float.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/net7.0/ref/5-print_float.dll
