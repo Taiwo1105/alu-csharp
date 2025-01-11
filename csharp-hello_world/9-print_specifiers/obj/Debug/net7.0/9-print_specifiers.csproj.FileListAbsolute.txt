@@ -2,3 +2,13 @@
 /Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfoInputs.cache
 /Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfo.cs
 /Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/refint/9-print_specifiers.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/ref/9-print_specifiers.dll
