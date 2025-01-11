@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/refint/6-print_string.dll
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/ref/6-print_string.dll
