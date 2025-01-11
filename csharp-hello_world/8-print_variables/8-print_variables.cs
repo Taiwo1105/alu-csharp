@@ -7,12 +7,9 @@ class Program
         int number = 972;
         string streetName = "Mission";
         string streetType = "Street";
-
-        // Update variables
-        number = 98;
-        streetName = "Battery";
-
+        number = 98; streetName = "Battery";
         Console.WriteLine($"{number} {streetName} {streetType}");
     }
 }
+
 
