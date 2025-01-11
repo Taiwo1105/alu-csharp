@@ -1,14 +1,13 @@
 using System;
-
 class Program
 {
     static void Main(string[] args)
     {
-        int number = 972;
-        string streetName = "Mission";
-        string streetType = "Street";
-        number = 98; streetName = "Battery";
-        Console.WriteLine($"{number} {streetName} {streetType}");
+        // Initialize variables with the required values
+        string str1 = "972";
+        string str2 = "Mission Street";
+
+        Console.WriteLine(str1 + " " + str2);   // Output: "972 Mission Street"
     }
 }
 
