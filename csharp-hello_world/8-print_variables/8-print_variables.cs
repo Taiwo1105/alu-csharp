@@ -1,12 +1,18 @@
 using System;
+
 class Program
 {
     static void Main(string[] args)
     {
-        // Initialize variables with the required values
-        string str1 = "972";
-        string str2 = "Mission Street";
+        int number = 972;
+        string streetName = "Mission";
+        string streetType = "Street";
 
-        Console.WriteLine(str1 + " " + str2);   // Output: "972 Mission Street"
+        // Update variables
+        number = 98;
+        streetName = "Battery";
+
+        Console.WriteLine($"{number} {streetName} {streetType}");
     }
 }
+
