@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.pdb
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/refint/15-square_matrix.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.pdb
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/ref/15-square_matrix.dll
