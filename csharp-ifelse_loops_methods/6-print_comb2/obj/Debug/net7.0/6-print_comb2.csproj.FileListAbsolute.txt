@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/bin/Debug/net7.0/6-print_comb2.pdb
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/refint/6-print_comb2.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.pdb
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/6-print_comb2.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/6-print_comb2/obj/Debug/net7.0/ref/6-print_comb2.dll
