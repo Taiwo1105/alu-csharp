@@ -7,7 +7,7 @@ class Program
         int number;
 
         // For positive case
-        number = 98;
+        number = -98;
 
         // For zero case
         // number = 0;
