@@ -1,22 +1,24 @@
 using System;
-using System.Text;
 
 class Program
 {
     static void Main(string[] args)
     {
-        StringBuilder output = new StringBuilder();
+        // Create a variable to accumulate the output string
+        string output = "";
 
-        for (int i = 0; i <= 99; i++)
+        // Loop from 0 to 99
+        for (int i = 0; i < 100; i++)
         {
-            output.Append($"{i:D2}"); // Format the number with two digits
+            // Append the number with leading zero if necessary and followed by ", " unless it's the last number
+            output += i.ToString("D2");
             if (i < 99)
             {
-                output.Append(", "); // Add a comma and space for all numbers except the last
+                output += ", ";
             }
         }
 
-        Console.Write(output.ToString()); // Print the entire string
-        Console.WriteLine(); // Print a new line at the end
+        // Print the accumulated output string followed by a newline
+        Console.WriteLine(output);
     }
 }
