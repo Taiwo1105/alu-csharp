@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.pdb
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/refint/4-print_list.dll
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.pdb
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/ref/4-print_list.dll
