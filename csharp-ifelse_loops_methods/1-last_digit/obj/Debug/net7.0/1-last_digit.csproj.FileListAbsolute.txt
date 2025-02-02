@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.pdb
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/refint/1-last_digit.dll
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.pdb
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/ref/1-last_digit.dll
