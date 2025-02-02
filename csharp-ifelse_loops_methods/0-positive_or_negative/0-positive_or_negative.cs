@@ -4,25 +4,23 @@ class Program
 {
     static void Main(string[] args)
     {
-        int number;
+        int[] numbers = { 98, -98, 0 };
 
-        // For positive case
-        number = -98;
-
-        // For zero case
-        // number = 0;
-
-        if (number > 0)
+        foreach (int number in numbers)
         {
-            Console.WriteLine($"{number} is positive");
-        }
-        else if (number < 0)
-        {
-            Console.WriteLine($"{number} is negative");
-        }
-        else
-        {
-            Console.WriteLine($"{number} is zero");
+            if (number > 0)
+            {
+                Console.WriteLine($"{number} is positive");
+            }
+            else if (number < 0)
+            {
+                Console.WriteLine($"{number} is negative");
+            }
+            else
+            {
+                Console.WriteLine($"{number} is zero");
+            }
         }
     }
 }
+
