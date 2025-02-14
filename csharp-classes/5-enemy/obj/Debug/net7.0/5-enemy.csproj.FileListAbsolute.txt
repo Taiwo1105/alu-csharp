@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.dll
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.pdb
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.dll
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/refint/5-enemy.dll
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.pdb
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/ref/5-enemy.dll
