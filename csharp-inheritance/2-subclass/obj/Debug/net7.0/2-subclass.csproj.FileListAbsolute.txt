@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/refint/2-subclass.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/ref/2-subclass.dll
