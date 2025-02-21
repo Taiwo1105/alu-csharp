@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/bin/Debug/net7.0/7-shape
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/bin/Debug/net7.0/7-shape.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/bin/Debug/net7.0/7-shape.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/bin/Debug/net7.0/7-shape.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/bin/Debug/net7.0/7-shape.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/refint/7-shape.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/7-shape.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/7-shape/obj/Debug/net7.0/ref/7-shape.dll
