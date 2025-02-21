@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/refint/3-type_get.dll
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.pdb
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/ref/3-type_get.dll
