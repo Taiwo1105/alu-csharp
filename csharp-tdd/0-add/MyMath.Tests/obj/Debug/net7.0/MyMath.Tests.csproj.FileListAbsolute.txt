@@ -1,0 +1,4 @@
+/Users/davidadegboyega/alu-csharp/csharp-tdd/0-add/MyMath.Tests/obj/Debug/net7.0/MyMath.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-tdd/0-add/MyMath.Tests/obj/Debug/net7.0/MyMath.Tests.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-tdd/0-add/MyMath.Tests/obj/Debug/net7.0/MyMath.Tests.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-tdd/0-add/MyMath.Tests/obj/Debug/net7.0/MyMath.Tests.csproj.CoreCompileInputs.cache
