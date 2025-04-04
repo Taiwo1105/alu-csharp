@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net7.0/7-linkedlist_add
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net7.0/7-linkedlist_add.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net7.0/7-linkedlist_add.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net7.0/7-linkedlist_add.dll
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net7.0/7-linkedlist_add.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.dll
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/refint/7-linkedlist_add.dll
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.pdb
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/7-linkedlist_add.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net7.0/ref/7-linkedlist_add.dll
