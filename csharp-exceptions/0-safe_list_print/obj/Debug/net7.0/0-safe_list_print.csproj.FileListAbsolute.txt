@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.pdb
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/refint/0-safe_list_print.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.pdb
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/ref/0-safe_list_print.dll
