@@ -1,0 +1,14 @@
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.deps.json
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.runtimeconfig.json
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.pdb
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.AssemblyInfoInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.AssemblyInfo.cs
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/refint/4-throw_exception_msg.dll
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.pdb
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.genruntimeconfig.cache
+/Users/davidadegboyega/alu-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/ref/4-throw_exception_msg.dll
