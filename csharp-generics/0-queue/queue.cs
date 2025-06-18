@@ -1,11 +1,16 @@
-using System;
 
+/// <summary>
+/// A generic queue.
+/// </summary>
+/// <typeparam name="T">Element type.</typeparam>
 public class Queue<T>
 {
-    // Method that returns the type of the generic parameter T
+    /// <summary>
+    /// Gets the type of elements.
+    /// </summary>
+    /// <returns>Type of T.</returns>
     public Type CheckType()
     {
         return typeof(T);
     }
 }
-
